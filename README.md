@@ -7,6 +7,7 @@
 # Hi 👋, I'm Lakshmanan S
 🎓 B.E. Computer Science and Engineering (IoT)
 💻 Aspiring Software Developer
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -16,11 +17,18 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 
+## 📊 GitHub Stats
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=lakshmanan728&show_icons=true&theme=tokyonight"/>
-</p>
+
+<img src="https://github-readme-stats.vercel.app/api?username=lakshmanan728&show_icons=true&theme=tokyonight" />
+
+## 💻 Most Used Languages
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshmanan728&layout=compact&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshmanan728&layout=compact&theme=tokyonight" />
+
 </p>
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=lakshmanan728&theme=tokyonight"/>
